@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
+[![](https://github.com/Dhyey-Padalia/Dhyey-Padalia/blob/main/Your%20paragraph%20text.gif)](https://www.adamalston.com/)
 
 I'm **Dhyey Padalia**, an aspiring backend developer currently pursuing a B.Tech in Information Technology. I have a passion for building scalable web applications using modern technologies like Node.js, Express.js, and MongoDB. 
 
