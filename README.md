@@ -38,3 +38,7 @@ I'm **Dhyey Padalia**, an aspiring backend developer currently pursuing a B.Tech
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Dhyey-Padalia&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 <!-- Created with love by Dhyey Padalia -->
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
