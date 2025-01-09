@@ -24,19 +24,9 @@ I'm **Dhyey Padalia**, an aspiring backend developer currently pursuing a B.Tech
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
-![Dhyey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhyey-Padalia&show_icons=true&theme=light&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhyey-Padalia&theme=light&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyey-Padalia&layout=compact&theme=light&hide_border=true)
-
 ## ✍️ Quote of the Day
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-![Visitor Count](https://visitcount.itsvg.in/api?id=Dhyey-Padalia&label=Profile%20Views&color=12&icon=5&pretty=true)
-
 <!-- Created with love by Dhyey Padalia -->
-
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
