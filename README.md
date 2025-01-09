@@ -4,7 +4,7 @@ I'm **Dhyey Padalia**, an aspiring backend developer currently pursuing a B.Tech
 
 ## 🚀 About Me
 - 🎓 **Education**: B.Tech IT, Charotar University of Science and Technology
-- 🌱 **Learning**: Exploring DevOps practices and cloud technologies
+- 🌱 **Learning**: Exploring Backend Web technologies
 - 💬 **Ask me about**: Backend development, APIs, and databases
 - 🎯 **Goals**: To contribute to open-source projects and become a full-stack developer
 - ⚡ **Fun Fact**: I love stock market equity trading!
