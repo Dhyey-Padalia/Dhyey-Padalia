@@ -1,5 +1,3 @@
-[![](https://github.com/Dhyey-Padalia/Dhyey-Padalia/blob/main/Your%20paragraph%20text.gif)](https://www.adamalston.com/)
-
 # Hi there, I'm Dhyey Padalia 👋
 
 ## 🚀 Trainee Software Engineer | Web Developer | Tech Enthusiast
@@ -11,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer currently on a 
 - 💻 Currently building **ServerTap** – A Cross-Server Instance Management and Health Monitoring System
 - 🎓 Pursuing **B.Tech in Information Technology** at **Charotar University of Science and Technology**
 - 🔥 Passionate about Web Development, Backend Engineering, and System Design
-- 💪 On a mission to become **famous in the tech world** 🔥
 
 ### 💻 Tech Stack
 - **Frontend:** HTML, CSS, TailwindCSS, Vue.js, PrimeVue
