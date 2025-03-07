@@ -47,7 +47,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer currently on a 
 
 ---
 ### 🔥 "Hard Work Always Pays Off – No Matter What"
-
 <!-- Created with love by Dhyey Padalia -->
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
