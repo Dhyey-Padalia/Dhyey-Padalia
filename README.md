@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer currently on a 
 ### 📌 Connect with Me
 - LinkedIn: [Dhyey Padalia](https://www.linkedin.com/in/dhyeypadalia)
 - Portfolio (Coming Soon...)
-- Email: dhyeypadalia11@gmail.com
+- Email: dhyeypatel2531@gmail.com
 
 ---
 ### 🔥 "Hard Work Always Pays Off – No Matter What"
