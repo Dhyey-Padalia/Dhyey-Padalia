@@ -1,28 +1,57 @@
 [![](https://github.com/Dhyey-Padalia/Dhyey-Padalia/blob/main/Your%20paragraph%20text.gif)](https://www.adamalston.com/)
 
-I'm **Dhyey Padalia**, an aspiring backend developer currently pursuing a B.Tech in Information Technology. I have a passion for building scalable web applications using modern technologies like Node.js, Express.js, and MongoDB. 
+# Hi there, I'm Dhyey Padalia 👋
 
-## 🚀 About Me
-- 🎓 **Education**: B.Tech IT, Charotar University of Science and Technology
-- 🌱 **Learning**: Exploring Backend Web technologies
-- 💬 **Ask me about**: Backend development, APIs, and databases
-- 🎯 **Goals**: To contribute to open-source projects and become a full-stack developer
-- ⚡ **Fun Fact**: I love stock market equity trading!
+## 🚀 Trainee Software Engineer | Web Developer | Tech Enthusiast
 
-## 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyey-padalia)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhyeypadalia.me)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Dh-yey)
+Welcome to my GitHub profile! I'm a passionate software engineer currently on a journey to master **Web Development** and **Backend Technologies**. With hands-on experience in building scalable web applications and a constant drive to improve, I'm exploring modern tech stacks to create impactful solutions.
 
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🌐 About Me
+- 🎯 Trainee Software Engineer at **SteepGraph Systems Pvt Ltd**
+- 💻 Currently building **ServerTap** – A Cross-Server Instance Management and Health Monitoring System
+- 🎓 Pursuing **B.Tech in Information Technology** at **Charotar University of Science and Technology**
+- 🔥 Passionate about Web Development, Backend Engineering, and System Design
+- 💪 On a mission to become **famous in the tech world** 🔥
+
+### 💻 Tech Stack
+- **Frontend:** HTML, CSS, TailwindCSS, Vue.js, PrimeVue
+- **Backend:** Node.js, Express.js
+- **Database:** SQLite, JSON-based storage
+- **Tools:** Vite, Git, Postman, PowerShell
+- **Other Skills:** Socket.IO, REST APIs, Cross-Server Communication
+
+### 📌 What I'm Currently Working On
+| Project        | Tech Stack                     | Status       |
+|---------------|--------------------------------|-------------|
+| ServerTap     | Vue.js, Express.js, SQLite     | 🔨 Rebuilding with PrimeVue & Database Integration |
+| Health Monitor | Node.js, Socket.IO           | 🔄 Upcoming Feature |
+| Cross-Server Communication | Node.js, IIS, SQLite | 🔄 Research & Implementation |
+
+### 📈 My Roadmap
+- Master JavaScript (OOPs + DSA)
+- Build Full-Stack Projects
+- Contribute to Open Source
+- Crack Placement Aptitude Tests
+- Become a **Web Development Expert** 🌐
+
+### 🏆 Achievements
+- Built **ServerTap** from scratch as a solo developer
+- Learned **Vue.js** and **Node.js** during my internship
+- Completed multiple small projects like **Attendance System** and **Table Manipulation App**
+- Served as an NCC Cadet for 3 years
+
+### 📊 GitHub Stats
+![Dhyey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhyeyPadalia&show_icons=true&theme=radical)
+
+### 📌 Connect with Me
+- LinkedIn: [Dhyey Padalia](https://www.linkedin.com/in/dhyeypadalia)
+- Portfolio (Coming Soon...)
+- Email: dhyeypadalia11@gmail.com
+
+---
+### 🔥 "Hard Work Always Pays Off – No Matter What"
+
+
 
 ## ✍️ Quote of the Day
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
